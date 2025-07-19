@@ -1,4 +1,4 @@
-# Thesis: Stochastic Analysis of Soil Variability Effects on the Seismic Response of a Tailings Storage Facilit
+# Thesis Project
 
 I decided to create this repository to document the full development of my
 undergraduate thesis, including code, data, results, and manuscript written in
@@ -10,11 +10,11 @@ My thesis is written in Spanish, but the code and all other material are in Engl
 At the end of the project, I will translate the manuscript into English within this
 same repository.
 
-- Original title (in Spanish): _Análisis Numérico-Estocástico del Impacto de la
+- **Original title (in Spanish)**: _Análisis Numérico-Estocástico del Impacto de la
   Variabilidad Espacial del Suelo de Cimentación en la Estabilidad Física y la
   Respuesta Sísmica de un Depósito de Relaves_
-- Authors: Francesco F. (main researcher), Franklin O. & Denys P (mentors/advisors).
-- University: National University of Engineering (Lima, Perú)
+- **Authors**: Francesco F. (main researcher), Franklin O. & Denys P (mentors/advisors).
+- **University**: National University of Engineering (Lima, Perú)
 
 This research project was sponsored by the Civil Engineering Faculty Research Center
 of the same university (IIFIC-UNI), and the authors deeply acknowledge its support.
@@ -33,3 +33,7 @@ of the same university (IIFIC-UNI), and the authors deeply acknowledge its suppo
 ```bash
 make
 ```
+Stochastic–Numerical Analysis of the Impact of Spatial Variability in Foundation
+Soils on the Physical Stability and Seismic Response of a Tailings Storage Facility
+© 2025 by Francesco Franco is licensed under CC BY-NC-SA 4.0. To view a copy of this
+license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
