@@ -1,0 +1,13 @@
+[project]
+name = "core"
+version = "0.1.0"
+description = "Modular Python scripts supporting my thesis project."
+authors = [
+    { name = "Francesco Franco", email = "ffrancoa97@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.8.0,<0.9"]
+build-backend = "uv_build"
