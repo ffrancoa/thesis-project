@@ -21,11 +21,11 @@ of the same university (IIFIC-UNI), and the authors deeply acknowledge its suppo
 
 ## Structure
 
-- `src/` — Source code employed for analysis and simulations.
+- `src/thesis/` — Thesis chapters in Typst.
+- `src/thesis/main.typ` — Main file to compile using Typst.
+- `src/code/` — Source code employed for analysis and simulations.
 - `data/` — Input data, mainly laboratory and in-situ tests.
 - `results/` — Figures and tables.
-- `chapters/` — Thesis chapters in Typst.
-- `thesis.typ` — Main file to compile using Typst.
 - `references.bib` — Citations in BibTeX.
 
 ## Build

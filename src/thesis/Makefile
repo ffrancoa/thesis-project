@@ -1,4 +1,4 @@
-THESIS_FILE = thesis.typ
+THESIS_FILE = main.typ
 OUTPUT_FILE = thesis.pdf
 
 all: $(OUTPUT_FILE)
