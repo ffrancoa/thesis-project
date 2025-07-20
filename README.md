@@ -31,7 +31,7 @@ of the same university (IIFIC-UNI), and the authors deeply acknowledge its suppo
 ## Build
 
 ```bash
-make
+typst compile main.typ thesis.pdf
 ```
 Stochastic–Numerical Analysis of the Impact of Spatial Variability in Foundation
 Soils on the Physical Stability and Seismic Response of a Tailings Storage Facility
