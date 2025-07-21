@@ -23,8 +23,8 @@ of the same university (IIFIC-UNI), and the authors deeply acknowledge its suppo
 
 - `thesis/` — Thesis chapters in Typst.
 - `thesis/main.typ` — Main file to compile using Typst.
-- `code/` — Source code employed for analysis and simulations.
-- `data/` — Input data, mainly laboratory and in-situ tests.
+- `code/src` — Source code employed for analysis and simulations.
+- `data/data` — Input data, mainly laboratory and in-situ tests.
 - `results/` — Figures and tables.
 - `references.bib` — Citations in BibTeX.
 
